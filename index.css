@@ -1,0 +1,6 @@
+body {background-color: rgb(200, 200, 200);}
+
+h1, h2, li, p {text-align: center;}
+
+ul {list-style-type:square;
+    display: table; margin: 0 auto;}
